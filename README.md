@@ -1,5 +1,5 @@
 # Windows
-- open windows powershell
+
 ```bash
 @echo off
 title Windows ALL version activator&cls&echo ************************************ &echo Supported products:&echo - Windows 10 Home&echo - Windows 10 Professional&echo - Windows 10 Enterprise, Enterprise LTSB&echo - Windows 10 Education&echo.&echo.&echo ************************************ &echo Windows 10 activation...
